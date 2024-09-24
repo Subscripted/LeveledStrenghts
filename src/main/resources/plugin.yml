@@ -1,0 +1,6 @@
+name: LeveledStrenghts
+version: '1.0-SNAPSHOT'
+main: dev.subscripted.leveledStrenghts.Main
+api-version: '1.21'
+commands:
+  skill:
